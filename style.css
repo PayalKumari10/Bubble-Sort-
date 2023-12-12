@@ -1,0 +1,19 @@
+.parentDiv{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(218, 236, 250);
+    border: 10px solid red;
+    justify-content: center;
+}
+
+.startbtn{
+    display: flex;
+    border: 2px solid;
+    background-color: rgb(107, 11, 196);
+    margin: 12px;
+    position: relative;
+    left: 600px;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+}
